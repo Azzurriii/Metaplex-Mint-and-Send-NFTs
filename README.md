@@ -27,7 +27,6 @@ Before you start, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/Azzurriii/Metaplex-Mint-and-Send-NFTs.git
-   cd mint-and-send-nft
    ```
 
 2. **Install Dependencies**

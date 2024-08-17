@@ -1,0 +1,22 @@
+{
+  "name": "nfts-create-sdk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@irys/sdk": "^0.2.10",
+    "@metaplex-foundation/js": "^0.20.1",
+    "@solana-developers/helpers": "^2.4.0",
+    "@solana/web3.js": "^1.95.2",
+    "form-data": "^4.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
